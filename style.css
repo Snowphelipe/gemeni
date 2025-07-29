@@ -1,5 +1,5 @@
 
- body{
+ body {
     font-family: Arial, sans-serif;
     background: #0f0f0f;
     padding: 20px;
@@ -19,14 +19,14 @@ Video {
  border-radius: 4px;
 }
 .info {
- margin_top: 8px;
+ margin-top: 8px;
 }
 .info h3 {
- font_size: 16px;
+ font-size: 16px;
  margin: 4px 0;
  color: #002f6c;
 }
 .info p {
- font_size: 13px;
+ font-size: 13px;
  color: #e0dfdf;
 }
